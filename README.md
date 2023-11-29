@@ -1,4 +1,4 @@
-# projet-2
+# Project-2
 
 Designing a Public Health Service Application
 
